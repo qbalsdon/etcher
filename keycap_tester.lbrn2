@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject AppVersion="0.9.24" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
+    <Thumbnail Source="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"/>
+    <VariableText>
+        <Start Value="0"/>
+        <End Value="999"/>
+        <Current Value="0"/>
+        <Increment Value="1"/>
+        <AutoAdvance Value="0"/>
+    </VariableText>
+    <UIPrefs>
+        <Optimize_ByLayer Value="0"/>
+        <Optimize_ByGroup Value="-1"/>
+        <Optimize_ByPriority Value="1"/>
+        <Optimize_WhichDirection Value="0"/>
+        <Optimize_InnerToOuter Value="1"/>
+        <Optimize_ByDirection Value="0"/>
+        <Optimize_ReduceTravel Value="1"/>
+        <Optimize_HideBacklash Value="0"/>
+        <Optimize_ReduceDirChanges Value="0"/>
+        <Optimize_ChooseCorners Value="0"/>
+        <Optimize_AllowReverse Value="1"/>
+        <Optimize_RemoveOverlaps Value="0"/>
+        <Optimize_OptimalEntryPoint Value="1"/>
+    </UIPrefs>
+    <CutSetting type="Cut">
+        <index Value="0"/>
+        <name Value="C00"/>
+        <minPower Value="3"/>
+        <maxPower Value="40"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.3333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Cut">
+        <index Value="1"/>
+        <name Value="C01"/>
+        <minPower Value="20"/>
+        <maxPower Value="40"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.3333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="1"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="3"/>
+        <name Value="C03"/>
+        <minPower Value="20"/>
+        <maxPower Value="40"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="2"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="6"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="4"/>
+        <name Value="C04"/>
+        <minPower Value="5"/>
+        <maxPower Value="5"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="3"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="5"/>
+        <name Value="C05"/>
+        <minPower Value="6"/>
+        <maxPower Value="6"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="4"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="6"/>
+        <name Value="C06"/>
+        <minPower Value="7"/>
+        <maxPower Value="7"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="5"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="7"/>
+        <name Value="C07"/>
+        <minPower Value="8"/>
+        <maxPower Value="8"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="6"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="8"/>
+        <name Value="C08"/>
+        <minPower Value="9"/>
+        <maxPower Value="9"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="7"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="9"/>
+        <name Value="C09"/>
+        <minPower Value="10"/>
+        <maxPower Value="10"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="8"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="10"/>
+        <name Value="C10"/>
+        <minPower Value="5"/>
+        <maxPower Value="5"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="9"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="11"/>
+        <name Value="C11"/>
+        <minPower Value="6"/>
+        <maxPower Value="6"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="10"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="12"/>
+        <name Value="C12"/>
+        <minPower Value="7"/>
+        <maxPower Value="7"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="11"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="13"/>
+        <name Value="C13"/>
+        <minPower Value="8"/>
+        <maxPower Value="8"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="12"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="14"/>
+        <name Value="C14"/>
+        <minPower Value="9"/>
+        <maxPower Value="9"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="13"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="15"/>
+        <name Value="C15"/>
+        <minPower Value="9"/>
+        <maxPower Value="9"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="14"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="2"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="16"/>
+        <name Value="C16"/>
+        <minPower Value="5"/>
+        <maxPower Value="5"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="15"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="17"/>
+        <name Value="C17"/>
+        <minPower Value="6"/>
+        <maxPower Value="6"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="16"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="18"/>
+        <name Value="C18"/>
+        <minPower Value="7"/>
+        <maxPower Value="7"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="17"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="19"/>
+        <name Value="C19"/>
+        <minPower Value="8"/>
+        <maxPower Value="8"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="18"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="20"/>
+        <name Value="C20"/>
+        <minPower Value="9"/>
+        <maxPower Value="9"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="19"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="21"/>
+        <name Value="C21"/>
+        <minPower Value="10"/>
+        <maxPower Value="10"/>
+        <minPower2 Value="20"/>
+        <maxPower2 Value="20"/>
+        <speed Value="0.833333"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <enableLaser1 Value="1"/>
+        <enableLaser2 Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <throughPower2 Value="0"/>
+        <enableCutThroughStart Value="0"/>
+        <enableCutThroughEnd Value="0"/>
+        <priority Value="20"/>
+        <frequency Value="20000"/>
+        <overrideFrequency Value="0"/>
+        <PPI Value="200"/>
+        <enablePPI Value="0"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="0"/>
+        <autoBlower Value="0"/>
+        <blowerSpeedOverride Value="0"/>
+        <blowerSpeedPercent Value="100"/>
+        <overcut Value="0"/>
+        <rampLength Value="0"/>
+        <rampOuter Value="0"/>
+        <forceConstantPower Value="0"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <dotMode Value="0"/>
+        <dotTime Value="0"/>
+        <dotSpacing Value="0"/>
+        <tabsEnabled Value="0"/>
+        <manualTabs Value="1"/>
+        <tabSize Value="0.5"/>
+        <tabCount Value="-1"/>
+        <tabSpacing Value="50"/>
+        <skipInnerTabs Value="0"/>
+        <tabsUseSpacing Value="1"/>
+        <tabCutPower Value="0"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="1"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+        <cellsPerInch Value="50"/>
+        <halftoneAngle Value="22.5"/>
+    </CutSetting>
+    <Shape Type="Rect" CutIndex="1" W="364.00009" H="170.00002" Cr="0">
+        <XForm>1 0 0 1 200 215</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 81.6955 228.247</XForm>
+        <VertList>V17.706577 -1.4962429c0x1c1x17.442324c1y-1.4962429V22.991627 -1.4962429c0x23.520132c0y-1.4962429c1x1V23.784386 -2.2890005c0x1c1x23.784386c1y-1.7604954V23.784386 -7.045547c0x23.784386c0y-7.3097997c1x1V22.991627 -7.838305c0x1c1x23.520132c1y-7.838305V17.706577 -7.838305c0x17.442324c0y-7.838305c1x1V17.17807 -7.045547c0x1c1x17.17807c1y-7.3097997V17.17807 -2.2890005c0x17.17807c0y-1.7604954c1x1</VertList>
+        <PrimList>L0 1B1 2L2 3B3 4L4 5B5 6L6 7B7 0</PrimList>
+    </Shape>
+    <Shape Type="Text" CutIndex="3" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="SPEED:50&#10;PASS:1 - 3&#10;POWER: 5 - 10" H="12" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 199.823 277.015</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 106.695 228.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 131.695 228.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 156.695 228.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 181.695 228.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 206.695 228.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 81.6959 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 106.695 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 131.695 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 156.695 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 181.695 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 206.695 253.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 81.6959 203.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 106.695 203.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 131.695 203.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 156.695 203.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 181.695 203.247</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="32" PrimID="2">
+        <XForm>2.72467 0 0 2.83819 206.695 203.247</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="4" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 5" H="4.0603161" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 137.423 240.9</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="5" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 6" H="4.0689335" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 162.439 240.9</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="6" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 7" H="4.0692759" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 187.435 240.9</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="7" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 8" H="4.0669765" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 212.433 240.902</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="8" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 9" H="4.0662122" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 237.431 240.901</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="9" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 1&#10;Po: 10" H="3.2538211" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 262.453 240.721</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="10" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 5" H="4.0603161" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 137.423 215.9</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="11" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 6" H="4.0689335" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 162.439 215.9</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="12" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 7" H="4.0692759" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 187.435 215.899</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="13" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 8" H="4.0669765" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 212.433 215.902</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="14" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 9" H="4.0662055" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 237.431 215.899</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="15" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 2&#10;Po: 10" H="3.2538211" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 262.453 215.72</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="16" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 5" H="4.0581694" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 137.426 190.897</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="17" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 6" H="4.0692768" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 162.436 190.899</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="18" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 7" H="4.0692759" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 187.435 190.899</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="19" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 8" H="4.0669765" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 212.433 190.902</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="20" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 9" H="4.0662122" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 237.431 190.898</XForm>
+    </Shape>
+    <Shape Type="Text" CutIndex="21" Font="Arial,-1,100,5,50,0,0,0,0,0" Str="Pa: 3&#10;Po: 10" H="3.2538211" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
+        <XForm>1 0 0 1 262.453 190.722</XForm>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="33" PrimID="3">
+        <XForm>1.38462 0 0 1.38462 -48.0769 -105.077</XForm>
+        <VertList>V125 281c0x1c1x1V125 268c0x1c1x1</VertList>
+        <PrimList>LineOpen</PrimList>
+    </Shape>
+    <Shape Type="Path" CutIndex="0" VertID="33" PrimID="3">
+        <XForm>-6.05237e-8 -1.38462 1.38462 -6.05237e-8 -255.078 448.078</XForm>
+    </Shape>
+    <Notes ShowOnLoad="0" Notes=""/>
+</LightBurnProject>
