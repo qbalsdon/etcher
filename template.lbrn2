@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnProject AppVersion="0.9.24" FormatVersion="1" MaterialHeight="0" MirrorX="False" MirrorY="False">
-    <Thumbnail Source="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAAsTAAALEwEAmpwYAAAIBElEQVR4nO3dT2hc5R7H4d9MElIXFWPBKijWikERsShIIqitIEiFbkRdBJe6UHFRFUVQN+pOuxHcSQUFW1f+ARUVhFbF0oWLWjG2RSnFjRi01jCZZMbF0OvFhZmxp83lfp9nGd55z8vJnE86hzNvW/1+v19ApPZaLwBYOwIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMHGjx+vev/9qunptV4KcK7Mz1ft2FE1/tlnVU8/XXXjjWu9JOBcOXiwamqqanzz5qprr6365JO1XhJwrszOVm3a5B4ARBMACCYAEEwAIJgAQDABgGACAMHGm5zsmmuuqaNHj9bY2Fhjc3a73XruuefqmWeeWXXskSNHanp6uiYnJxs7fr/fr1arVYuLi0ONv/3222vfvn01Pt7cqe12uzU3N1evv/76UOPb7Xaj56CqqtPpVK/XG2rs3Nxc7d27t9FzsLy8XFu3bq2PP/54qPHr1q2rqqpWq9XYGjqdTv3444912WWXrTr22WefrRdffLEmJiYaO/7KykpNT0/XoUOHGpuz0QDcdNNNtXPnzrr//vsbm/Puu++uLVu2DDV2amqqpqam6sSJE40df35+vu65556hx8/Oztatt95aTz31VGNrePTRR4c+B1VVk5OT9dNPP/3nIjhTp06dqssvv3zo8TMzM3X++efXrl27Gjl+VdULL7ww0sV86aWX1jvvvFNXXnllY2u4+OKLa/369UONveGGG2r79u21d+/exo6/e/fuOnDgQGPzVTUcgHa7XRMTE4298U7POcovvtVqNXr8ycnJkY7fbrdrfHy80TWMjY1Vuz3ap7V169Y1toaVlZWRxrfb7RobG2v0HIyPj1e/3x96fKvVqsnJyUbXMOr7sN1uN3r8iYmJkd8Hq3EPAIIJAAQTAAgmABBs+ACcPFn1wANVd91VdeTIWVwSMLLvvqvavr3qwQerfv996JcNF4DDh6s2bKj68suqhYWq66+v+uGHf7lSoFHHjg129Pn116ovvhhcq/PzQ7109QAcPly1ZUvVG29UHTo0OMAtt1Q98siZLhtowsMPV23bVvX554Nr9LXXqq67bvCvglWs/hzAE08MNg+7996/fvbWW1UbN1b98kvVhReeydKBM/Hzz1Wffjq4Fk+bm6t6++2qxx+veu+9f3z5cB8B/v4I6AgPZABn0emHk/5+TQ752PbqAXjppcG2wW+++dfP7ruv6s47/fWHtbZhQ9UddwyuydN276766KPBtbuK1T8CXH111TffDHYOff75qvXrB58zvv32DFYNNOaVVwbX58zM4Ebg0aODm4CbNq360uE+Alx11WDirVurLrlkcPGP8OUQ4Cy64orBH+WLLhpco7/9NtTFXzXKl4HOO6/q1Vf/3QKBs2vz5qp33x35ZZ4EhGACAMEEAIIJAARrdEegXq9XnU6nTp061dicKysrQ+9FVzXYw6/J4y8uLo60E02v16ulpaVG17C8vDzSOagabOM16k4+/zTXKHq9XnW73UbPwdLS0kh7Tfb7/VpcXGx0DaO+D1ZWVho9/ij7Mg6r0QAcPHiw9uzZU4899lhjc3Y6nbr55ptrx44dq45dWFiohYWF2rhxY2PH7/V6I20F9dVXX9W+ffvq5ZdfbmwNS0tL1e1266GHHhpqfKfTGWkPv2EMuylqVdWBAwdqz5499eZ/Pzx2hrrdbt12221Djz9x4kTNzMw0uinoH3/8USdPnqwLLrhg1bFff/11ffjhh42+F5eXl2t6erqx+aqqWvv39/tPPlm1f3+j8wL/w2Znq3btcg8AogkABBMACCYAEEwAIJgAQDABgGDjx44Nvkq8bdtaLwU4Vw4fHmzs3Tp+vN//4IPBnh9Ahu+/H/w3Aq3+KA84A/9X3AOAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACCCQAEEwAIJgAQTAAgmABAMAGAYAIAwQQAggkABBMACCYAEEwAIJgAQDABgGACAMH+BKp7kiOgAENjAAAAAElFTkSuQmCC"/>
+    <Thumbnail Source="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"/>
     <VariableText>
         <Start Value="0"/>
         <End Value="999"/>
@@ -30,7 +30,7 @@
         <maxPower Value="98"/>
         <minPower2 Value="20"/>
         <maxPower2 Value="20"/>
-        <speed Value="3.33333"/>
+        <speed Value="0.833333"/>
         <kerf Value="0"/>
         <zOffset Value="0"/>
         <enableLaser1 Value="1"/>
@@ -41,12 +41,12 @@
         <throughPower2 Value="0"/>
         <enableCutThroughStart Value="0"/>
         <enableCutThroughEnd Value="0"/>
-        <priority Value="0"/>
+        <priority Value="1"/>
         <frequency Value="20000"/>
         <overrideFrequency Value="0"/>
         <PPI Value="200"/>
         <enablePPI Value="0"/>
-        <doOutput Value="0"/>
+        <doOutput Value="1"/>
         <hide Value="0"/>
         <runBlower Value="0"/>
         <autoBlower Value="0"/>
@@ -56,7 +56,7 @@
         <rampLength Value="0"/>
         <rampOuter Value="0"/>
         <forceConstantPower Value="0"/>
-        <numPasses Value="2"/>
+        <numPasses Value="3"/>
         <zPerPass Value="0"/>
         <perforate Value="0"/>
         <perfLen Value="0.1"/>
@@ -90,7 +90,7 @@
         <maxPower Value="98"/>
         <minPower2 Value="20"/>
         <maxPower2 Value="20"/>
-        <speed Value="3.33333"/>
+        <speed Value="0.833333"/>
         <kerf Value="0"/>
         <zOffset Value="0"/>
         <enableLaser1 Value="1"/>
@@ -106,7 +106,7 @@
         <overrideFrequency Value="0"/>
         <PPI Value="200"/>
         <enablePPI Value="0"/>
-        <doOutput Value="0"/>
+        <doOutput Value="1"/>
         <hide Value="0"/>
         <runBlower Value="0"/>
         <autoBlower Value="0"/>
@@ -116,7 +116,7 @@
         <rampLength Value="0"/>
         <rampOuter Value="0"/>
         <forceConstantPower Value="0"/>
-        <numPasses Value="2"/>
+        <numPasses Value="3"/>
         <zPerPass Value="0"/>
         <perforate Value="0"/>
         <perfLen Value="0.1"/>
@@ -150,7 +150,7 @@
         <maxPower Value="98"/>
         <minPower2 Value="20"/>
         <maxPower2 Value="20"/>
-        <speed Value="3.33333"/>
+        <speed Value="0.833333"/>
         <kerf Value="0"/>
         <zOffset Value="0"/>
         <enableLaser1 Value="1"/>
@@ -161,12 +161,12 @@
         <throughPower2 Value="0"/>
         <enableCutThroughStart Value="0"/>
         <enableCutThroughEnd Value="0"/>
-        <priority Value="1"/>
+        <priority Value="0"/>
         <frequency Value="20000"/>
         <overrideFrequency Value="0"/>
         <PPI Value="200"/>
         <enablePPI Value="0"/>
-        <doOutput Value="0"/>
+        <doOutput Value="1"/>
         <hide Value="0"/>
         <runBlower Value="0"/>
         <autoBlower Value="0"/>
@@ -203,11 +203,11 @@
         <cellsPerInch Value="50"/>
         <halftoneAngle Value="22.5"/>
     </CutSetting>
-    <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
-        <XForm>1 0 0 1 100 215</XForm>
+    <Shape Type="Ellipse" CutIndex="2" Rx="1.4500031" Ry="1.4500031">
+        <XForm>1 0 0 1 98.5 215</XForm>
     </Shape>
-    <Shape Type="Ellipse" CutIndex="2" Rx="2.5" Ry="2.5">
-        <XForm>1 0 0 1 300 215</XForm>
+    <Shape Type="Ellipse" CutIndex="2" Rx="1.4500031" Ry="1.4500031">
+        <XForm>1 0 0 1 301.5 215</XForm>
     </Shape>
     <Shape Type="Rect" CutIndex="0" W="18" H="18" Cr="0">
         <XForm>1 0 0 1 200 215</XForm>
