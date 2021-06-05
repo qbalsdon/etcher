@@ -1,0 +1,4 @@
+Grbl v1.1 Interface · gnea/grbl Wiki · GitHub
+https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface#grbl--settings-message
+
+Please use $3=0 or  $3=1 or ... to change the direction of the motor.

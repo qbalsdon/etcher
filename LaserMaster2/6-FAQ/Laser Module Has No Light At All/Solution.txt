@@ -1,0 +1,18 @@
+Usually, if laser module is burned (the electric conductor was striken through.), 
+there would be no light at "Minimum Brightness",  but should be visible light at "Medium Brightness", "Maximum Brightness".
+
+Could you please do two steps to make sure the problem?
+
+
+1. Could you please check the wires connection on the pinboard?
+To exclude the issue of wrong wiring.
+
+
+2. Wires connection is correct, but still no laser.
+Could you please unplug the laser moduel and then, measure the voltage between the PWM and GND?
+Turn on the laser and click the "Maximum Brightness", and see whether the voltage would be changed.
+
+If it not changed, the terminal on motherboard is broken, need to repalce teh motherboard.
+If it changed, you cuold measure the PWM on pinboard too.
+If it not changed, the terminal on pinboard is broken, need to replace the pinboard.
+If it changed, the controllerboard on laser module should be burned and need to replace.

@@ -1,0 +1,17 @@
+1 Protection de position active.
+
+Il y a un capteur G sur la carte mère, si la machine détecte un mouvement non autorisé,
+le faisceau laser s'arrêtera, pour éviter que l'utilisateur ne soit endommagé par le laser.
+
+2 Protection de sécurité du faisceau laser.
+ 
+Si votre système informatique s'est arrêté ou si le câble USB est déconnecté, cela a conduit à l'arrêt du graveur laser,
+le faisceau laser s'arrêtera pour éviter les incendies.
+
+3 Détection et limitation de la durée d'exposition.
+
+Si le graveur laser est sous contrôle, mais que l'utilisateur oublie de faire fonctionner et de maintenir le faisceau laser en fonctionnement,
+une sécurité supplémentaire sera coupée au cas où le moteur s'arrêterait de bouger, pour éviter un incendie.
+
+(Quand la lumière est faible, la lumière durerait 100 secondes, si le module laser ne bouge pas.
+Lorsqu'il s'agit d'un laser, si le module laser ne bouge pas, le laser durera 10 à 60 secondes, selon la puissance.)

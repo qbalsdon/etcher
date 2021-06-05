@@ -1,0 +1,17 @@
+1 Aktiver Positionsschutz.
+
+Auf dem Motherboard befindet sich ein G-Sensor, wenn das Gerät unbefugte Bewegungen erkennt.
+Der Laserstrahl stoppt, um zu verhindern, dass der Benutzer durch den Laser Schaden nimmt.
+
+2 Laserstrahlschutz.
+ 
+Wenn Ihr Computersystem angehalten oder das USB-Kabel abgezogen wurde, bewegte sich der Lasergravierer nicht mehr.
+Der Laserstrahl stoppt, um ein Feuer zu verhindern.
+
+3 Erkennung und Begrenzung der Expositionsdauer.
+
+Wenn der Lasergravierer unter Kontrolle ist, der Benutzer jedoch vergisst, den Laserstrahl zu bedienen und weiter zu betreiben,
+Die zusätzliche Sicherheit wird unterbrochen, falls sich der Motor nicht mehr bewegt, um einen Brand zu vermeiden.
+
+(Wenn es schwaches Licht ist, würde das Licht 100 Sekunden dauern, wenn sich das Lasermodul nicht bewegt.
+Wenn es sich um einen Laser handelt und sich das Lasermodul nicht bewegt, hält der Laser je nach Leistungsverhältnissen 10 bis 60 Sekunden.)

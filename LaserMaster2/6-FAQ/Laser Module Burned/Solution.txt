@@ -1,0 +1,30 @@
+If your laser module cannot engrave or cut.
+
+Please use LaserGRBL to do a test:
+In the menu of "Laser Control",  there're 3 options "Minimum Brightness", "Medium Brightness", "Maximum Brightness".
+
+1. Please turn on the "Laser" button and click the "Minimum Brightness" immediately.
+Whether the visible light comes out at "Minimum Brightness"?
+
+2. Please turn on the "Laser" button and click the "Medium Brightness" immediately, 
+Whether the visible light comes out at "Medium Brightness"?
+
+If you got both of 1 and 2. it means the laser diode is burned, and you need to replace a new laser module.
+
+PS. It couldn't engrave/cut on reflective mirror surface, then the laser diode wouldn't be burned by the reflected laser.
+
+
+By the way, if there is no any light, at all of "Minimum Brightness", "Medium Brightness", "Maximum Brightness"
+Please check the PWM LED (the blue one) of the laser module, whether the blue light is lighting!
+If the blue LED light doesn't light, please don't power on the machine again.
+Could you please take a photo of the wires connection on the pinboard, at the acrylic holder of the left side of the X-axis.
+And then, please submit a ticket here:
+https://ortur.tech/support/
+The engineer team would reply to you in 24 hours usually.
+=============================================================================
+All three brightnesses have lights, it means the laser diode could work fine.
+Could you please use cotton swabs and alcohol​ to clean the lens of the laser module to give a try?
+If still not work, could you please submit a ticket here:
+https://ortur.tech/support/
+The engineer team would reply to you in 24 hours usually.
+============================================================================

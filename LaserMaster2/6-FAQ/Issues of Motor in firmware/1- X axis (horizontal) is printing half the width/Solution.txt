@@ -1,0 +1,5 @@
+The settings of firmware had been changed via the control software, using the console commands.
+Please change it back, the X should be: $100=80
+
+Grbl v1.1 Interface · gnea/grbl Wiki · GitHub
+https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface#grbl--settings-message

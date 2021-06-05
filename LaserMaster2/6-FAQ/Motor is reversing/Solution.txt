@@ -1,0 +1,11 @@
+1. The settings of firmware had been changed via the control software, using the console commands.
+Solution is to reset the factory setting:
+https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration 
+https://github.com/gnea/grbl/wiki/Grbl-v1.1-Commands 
+$RST=$, $RST=#, and $RST=*- Restore Grbl settings and data to defaults
+
+2. Wrong firmware had been re-installed by mistake.
+Solution:  is to re-install the correct firmware.
+
+3. Wiring sequence of motor wires.
+Solution is to exchange the Wiring sequence of motor wires.

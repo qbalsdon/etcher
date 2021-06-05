@@ -1,0 +1,3 @@
+Please check the wiring sequence of the Motor cables, 
+if it's wrong, please switch the wires to be the correct wiring sequence.
+Any question else, please send email to ortur@ortur3dprinter.com

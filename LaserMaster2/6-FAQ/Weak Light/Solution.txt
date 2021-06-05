@@ -1,0 +1,6 @@
+If there is no light, when "Low Light" is clicked in LaserGRBL.
+Also, there is a weak light, cannot burn wood, when "Medium Light" clicked.
+Then, the electric conductor in the laser diode, should be striken through.
+
+Solution: It have to replace a new laser module.
+

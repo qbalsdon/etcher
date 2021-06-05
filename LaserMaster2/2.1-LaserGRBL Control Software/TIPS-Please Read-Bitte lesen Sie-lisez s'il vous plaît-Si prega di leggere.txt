@@ -1,0 +1,35 @@
+Please import the profile file "CustomButtons.gz" into the LaserGRBL (please see the instruction1,2,3,4,5).
+Then, you could use the LaserGRBL to control this laser engraver directly.
+
+Also, if you want the latest version LaserGRBL, please download at: http://lasergrbl.com/download/
+But frankly, the lastest version is a beta version usually, it may have bug. 
+So, if you think v3.0.18 is ok, it don't to install the latest version.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Bitte importieren Sie die Profildatei "CustomButtons.gz" in die LaserGRBL (siehe Anleitung1,2,3,4,5).
+Dann können Sie den LaserGRBL verwenden, um diesen Lasergravierer direkt zu steuern.
+
+Wenn Sie die neueste Version von LaserGRBL möchten, laden Sie diese bitte herunter: http://lasergrbl.com/download/
+Aber ehrlich gesagt ist die neueste Version normalerweise eine Beta-Version, sie kann einen Fehler haben.
+Wenn Sie der Meinung sind, dass v3.0.18 in Ordnung ist, müssen Sie nicht die neueste Version installieren.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Veuillez importer le fichier de profil "CustomButtons.gz" dans le LaserGRBL (veuillez consulter les instructions1,2,3,4,5).
+Ensuite, vous pouvez utiliser le LaserGRBL pour contrôler directement ce graveur laser.
+
+De plus, si vous souhaitez la dernière version de LaserGRBL, veuillez la télécharger sur: http://lasergrbl.com/download/
+Mais franchement, la dernière version est généralement une version bêta, elle peut avoir un bug.
+Donc, si vous pensez que la v3.0.18 est correcte, il ne faut pas installer la dernière version.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Importare il file di profilo "CustomButtons.gz" in LaserGRBL (consultare le istruzioni 1,2,3,4,5).
+Quindi, è possibile utilizzare LaserGRBL per controllare direttamente questo incisore laser.
+
+Inoltre, se si desidera l'ultima versione di LaserGRBL, scaricare all'indirizzo: http://lasergrbl.com/download/
+Ma francamente, l'ultima versione è di solito una versione beta, potrebbe avere bug.
+Quindi, se pensi che v3.0.18 sia ok, non installare l'ultima versione.
+
+---------------------------------------------------------------------------------------------------------------------------

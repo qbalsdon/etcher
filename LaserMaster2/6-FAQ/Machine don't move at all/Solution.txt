@@ -1,0 +1,11 @@
+1. Forgot to connect the power adapter to the machine to power on the machine.
+Solution: Connect the machine and power on it.
+
+2. Power adapter is broken.
+Solution: Replace a new power adapter.
+
+3. Firmware is broken (The the indicator light could be on, after power on)
+Solution: Reinstall the firmware again (Please contact with us to get the correct firmware then).
+
+4. Motherboard is burned (The the indicator light is not on, after power on)
+Solution: Replace a new motherboard.

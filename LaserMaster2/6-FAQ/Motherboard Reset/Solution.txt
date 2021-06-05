@@ -1,0 +1,2 @@
+Usually, it's caused by the "Travel Exceeded".
+Solution: Please take care the max carving area of your machine, and don't set up the carving value bigger than the max carving area.

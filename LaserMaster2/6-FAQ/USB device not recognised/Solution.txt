@@ -1,0 +1,12 @@
+1. USB cable is too long or broken.
+Solution: Please swap another short USB cable.
+
+2. The power of USB driver of some laptop is not enough.
+Solution: Please swap another computer to give a try, or switch another short USB cable.
+Or you could reduce the Baud rate to be low on laptop, such as 115,200 ( Above 57,600 is fine)
+
+3. Firmware of motherboard is broken.
+Solution: Please contact with us to get the correct firmware to re-install the firmware.
+
+4. USB IC on the motherboard is broken.
+Solution: Please contact with us to get a new motherboard.

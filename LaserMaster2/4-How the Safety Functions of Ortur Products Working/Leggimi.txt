@@ -1,0 +1,17 @@
+1 protezione attiva della posizione.
+
+C'è un sensore G sulla scheda madre, se la macchina rileva movimenti non autorizzati,
+il raggio laser si fermerà, per impedire all'utente di danneggiare il laser.
+
+2 Guardia di sicurezza del raggio laser.
+ 
+Se il sistema del computer si è arrestato o il cavo USB è stato disconnesso, si è verificato un arresto del movimento dell'incisore laser,
+il raggio laser si fermerà, per prevenire il fuoco.
+
+3 Rilevazione e limitazione della durata dell'esposizione.
+
+Se l'incisore laser è sotto controllo, ma l'utente dimentica di operare e mantenere il raggio laser in funzione,
+una sicurezza aggiuntiva verrà interrotta nel caso in cui il motore smetta di muoversi, per prevenire incendi.
+
+(Quando è luce debole, la luce durerebbe 100 secondi, se il modulo laser non si muove.
+Quando è laser, se il modulo laser non si muove, il laser durerebbe 10-60 secondi, in base alla potenza.)

@@ -1,0 +1,12 @@
+If the limit swtich cannot stop the motor, the issue is that the limit switch doesn't work.
+
+1. Y limit switch doesn't work.
+Solution: Usually, it's because of the loose cable, please check the wires connection bettween the limit switch and the motherboard.
+If wires connection is ok, please check, whether the Y limit swtich is in good condition.
+
+2. X limit switch doesn't work.
+Solution: please check the wires connection bettween the pinboard and the motherboard.
+If wires connection is ok, please check, whether the black button of X limit is broken, if it's broken, please repalce a new pinboard(with X limit switch).
+
+If both of the wires connection and the limit swtiche are in good condition, the issue may be on the port of the limit switch on the motherboard.
+And then, it need to repalce a new motherboard.

@@ -1,0 +1,15 @@
+
+If the motor don't move + homing failed, it means it's not caused by bad limit switch. 
+Mostly possible, it's the wrong firmware assembled.
+
+And one more question, when you power on the machine, would the machine home successfully?
+If so, it's absolutly the wrong firmware installed, and then, you need to re-install the firmware.
+
+Please download the correct firmware and instruction at:
+Laser Master: https://www.dropbox.com/s/xim7wmran48ckym/LaserMaster.zip?dl=0
+Laser Master 2: https://www.dropbox.com/s/1o76v7d1rkqcb2j/LaserMaster2.zip?dl=0 
+
+TIPS: 
+1. Please use a Windows Comptuer, Win10 recommended.
+2. Please unzipped the folder, and copy the bin files from the unzipped folder.
+3. Please colse all the 3rd party software, especially the antivirus program.

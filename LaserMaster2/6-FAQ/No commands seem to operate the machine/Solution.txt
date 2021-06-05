@@ -1,0 +1,10 @@
+No commands seem to operate the machine？
+
+1. Please download the latest instructions on about how to re-install the firmware at: https://www.dropbox.com/s/xim7wmran48ckym/LaserMaster.zip?dl=0
+TIPS: a. Please use a Windows Comptuer, Win10 recommended.
+b. Please unzipped the folder, and copy the bin files from the unzipped folder.
+c. Please colse all the 3rd party software, especially the antivirus program.
+
+2. If the firmware updated successfully, but the problem still not fixed, please check:
+a, No power inputted, whether the power adapter is bad or not connected well.
+b, Motor IC is bad, please use the control software to move X and Y motor to check whether the Motor IC is bad or not.

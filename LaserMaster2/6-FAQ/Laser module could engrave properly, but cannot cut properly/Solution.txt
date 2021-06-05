@@ -1,0 +1,3 @@
+Why laser module could engrave plywood properly, but cannot cut properly.
+
+Solution: Please use the M4 to engrave plywood. But please use M3 to cut plywood.

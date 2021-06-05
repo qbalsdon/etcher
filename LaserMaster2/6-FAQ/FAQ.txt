@@ -1,0 +1,13 @@
+1. Question: What's the luminous power of LU7W, LU15W and LU20W?
+Answer: LU7W: Electric Power is about 7W, Luminous Power is 1,200-1,600mW.
+LU15W: Electric Power is about 15W, Luminous Power is 4,000-4,500mW.
+LU20W: Electric Power is about 20W, Luminous Power is 5,000-5,500mW.
+
+2. Question: Why the laser beams of LU15W and LU20W, are not a dot but a bar?
+Answer: The optical source of this kind of high power diode laser module, is a bar-shape LD (laser diode). 
+So the laser beam is a bar (the width of the narrow side is about 0.5mm) , when it's focused well.
+
+3. Question: What's the best focal length of LU7W, LU15W and LU20W?
+Answer: LU7W: About 58mm, from the bottom of Heat Sink to the surface of Object.
+LU15W: About 55mm, from the bottom of Heat Sink to the surface of Object.
+LU20W: About 30mm, from the bottom of Heat Sink to the surface of Object.

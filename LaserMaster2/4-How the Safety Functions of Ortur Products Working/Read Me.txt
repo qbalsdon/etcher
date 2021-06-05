@@ -1,0 +1,17 @@
+1 Active Position Protection. 
+
+There is a G-sensor on the motherboard, if the machine detects unauthorized movement, 
+the laser beam will stop, to prevent the user from harm by laser.
+
+2 Laser Beam Safety Guard.
+ 
+If your computer system halted or USB cable disconnected, led to that the laser engraver stop moving, 
+the laser beam will stop, to prevent fire.
+
+3 Exposure Duration Detection and Limitation. 
+
+If laser engraver under control, but user forget to operate and keep the laser beam working, 
+extra safety will cut off in case motor stopped moving, to prevent fire.
+
+( When it's weak light, the light would last 100 seconds, if the laser module don't move. 
+When it's laser, if the laser module don't move, the laser would last 10-60 seconds, according to the power rance.)

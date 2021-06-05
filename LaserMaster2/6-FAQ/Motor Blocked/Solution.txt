@@ -1,0 +1,5 @@
+1. Poor wires connection of motor.
+Solution: Check the motor cable and re-plug the cable tightly.
+
+2. Motor IC burned.
+Solution: Replace a new motherboard.
